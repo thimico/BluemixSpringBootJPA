@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.username\=sonar\r\nsonar.host.url\=http\://192.168.1.21\:9000/\r\nsonar.jdbc.password\=sonar\r\nsonar.jdbc.url\=jdbc\:postgresql\://192.168.1.22/sonar
+projectKey=pas.cloud.webapp\:BluemixSpringBootJPA
+serverUrl=http\://localhost\:9000
+version=2
