@@ -1,4 +1,4 @@
-<h1> IBM Bluemix - Spring Boot / Spring Data JPA / demo </h1>
+<h1> IBM Bluemix - Spring Boot / Spring Data JPA </h1>
 
 O seguinte demonstração mostra como vincular uma aplicacao Spring Boot a um serviço MySQL [Spring Data JPA]. 
 Isso garante que você não tem que escrever qualquer código para recuperar os detalhes da conexão de fonte de dados ligados como
@@ -10,7 +10,7 @@ Você pode implantar esta aplicação automaticamente para sua conta Bluemix usa
 
 <h2> Etapas para executar localmente </h2>
 
-- Código de Clone, como se segue
+- Clonar o repositório
 
 ```
 > git clone https://github.com/thimico/BluemixSpringBootJPA.git
