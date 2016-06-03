@@ -4,8 +4,6 @@ O seguinte demonstração mostra como vincular uma aplicacao Spring Boot a um se
 Isso garante que você não tem que escrever qualquer código para recuperar os detalhes da conexão de fonte de dados ligados como
 spring auto configura isso para você usando Spring biblioteca de conectores de serviços em nuvem.
 
-![alt tag](https://dl.dropboxusercontent.com/u/15829935/albums-view-bluemix.png)
-
 Você pode implantar esta aplicação automaticamente para sua conta Bluemix usando o botão abaixo, ou você pode seguir os passos abaixo.
 
 <a href="https://bluemix.net/deploy?repository=https://github.com/thimico/BluemixSpringBootJPA" target="_blank"><img src="http://bluemix.net/deploy/button.png" alt="Bluemix button" /></a>
@@ -74,6 +72,4 @@ criado e certifique-se de usar o nome do serviço corretamente
 
 
 ```
-IBM Bluemix Painel de aplicação, uma vez startado
-
-![alt tag](https://dl.dropboxusercontent.com/u/15829935/bluemix-console-albums.png)
+Pronto
